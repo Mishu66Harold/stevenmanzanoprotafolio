@@ -1,0 +1,8 @@
+{
+  "name": "steven-manzano-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Portafolio gastronómico de Steven Harold Manzano",
+  "scripts": {"dev": "npx serve .", "build": "node -e \"console.log('Sitio estático listo para publicar')\""},
+  "license": "UNLICENSED"
+}
